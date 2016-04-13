@@ -37,7 +37,7 @@ def float_input(value):
 print("2 to the 3rd power is: {}".format(power(2,3)))
 print("5 to the 4th power is: {}".format(power(5,4)))
 print("8 to the 0 power is: {}".format(power(8,0)))
-
+print("0 to the 4th power is: {}".format(power(0,4)))
 
 #-----Main Program------
 base = float_input("Enter the base of the number: ")
